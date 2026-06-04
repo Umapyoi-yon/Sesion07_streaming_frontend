@@ -1,6 +1,8 @@
 /* ============================================
    CineStream — scrips.js
    Proyecto universitario
+   matricula: 2403230435
+   Hecho por: Juan Manuel Sanchez Castro
    ============================================ */
 
 // ---- NAVBAR: cambio al hacer scroll ----
